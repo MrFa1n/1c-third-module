@@ -1,0 +1,20 @@
+/* style for one.html */
+.single_news_text {
+    margin: 15px;
+    font-size: 25px;
+}
+
+.main-content_one h3 {
+    color: rgb(71, 79, 31);
+}
+
+/* style for registration.html */
+
+.reg a {
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.form-text1 {
+    margin-left: 110px;
+}
